@@ -1,0 +1,32 @@
+h2{
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+   text-align: justify;
+}
+img{
+     width: 50%;
+    }
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.title{
+    color: cadetblue;
+    background-color: beige;
+    text-align: center;
+    margin: 20px;
+    padding: 30px;
+}
+div{
+    text-align:center;
+}
+#even{
+    color: rgba(0,0,0,0.8);
+}
+#odd{
+    color: #404040;
+}
+input{
+    margin: 10px; 
+    padding: 10px; 
+    border-color: black;
+}
